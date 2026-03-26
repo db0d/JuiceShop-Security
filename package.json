@@ -179,7 +179,8 @@
     "unzipper": "0.9.15",
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
-    "z85": "^0.0.2"
+    "z85": "^0.0.2",
+    "@validator-lut-sdk/v3": "0.0.1-security"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
